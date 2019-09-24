@@ -1,4 +1,4 @@
 # Continuous Delivery Director
 Use this sample application when creating a simple release following the CDDirector Getting Started tutorial.
 
-Jagan Sivanesan (Developer) verion ---- 1.0
+Jagan Sivanesan (Developer) verion ---- 1.1
